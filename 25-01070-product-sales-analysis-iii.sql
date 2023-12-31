@@ -1,6 +1,6 @@
 -- write a query to get first year
 -- then use that query to get detail of products in the first year
--- DOUBT
+
 
 select product_id, year as first_year, quantity, price
 from Sales
