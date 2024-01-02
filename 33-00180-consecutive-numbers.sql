@@ -1,3 +1,4 @@
+-- when comparing rows, use LEAD()/LAG()
 -- using lag by 1, lag by 2 and comparing num, lg1 and lg2
 -- can also use 2 leads
 
